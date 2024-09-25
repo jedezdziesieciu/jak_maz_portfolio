@@ -1,56 +1,3 @@
-# VSC
-# DICE ROLLS
-
-This script was created for users. When the script runs, it will ask a user how many dice they want to roll and how many sides each die will have.
-Then it randomly rolls those dice and prints the results. Every time a user hits Enter, the dice are rolled again. 
-If a user enter "q", then the script quits and stops running.
-
-![Dicerolls](https://github.com/user-attachments/assets/083de700-281e-44e8-9522-170a70ca17db)
-
-# ROCK PAPER SCISSORS
-
-This script is a very simple implementation of the game Rock Paper Scissors. 
-If you are unfamiliar with the game, here is how it works. Two players each pick their move: Rock, Paper or Scissors. Each move beats one other move and loses to one other move:
-- Rock beats Scissors
-- Scissors beats Paper
-- Paper beats Rock
-
-Your implementation will be a one player game that has a computer "AI" that randomly picks a move.
-
-See the game in action below:
-
-![rps_win](https://github.com/user-attachments/assets/4393ee67-8816-4f15-a476-07e0e893c53d)
-
-##--------------------
-
-![rps_tie](https://github.com/user-attachments/assets/7968a2ea-7f40-42a9-b889-37b2d20fc05d)
-
-##--------------------
-
-![rps_lose](https://github.com/user-attachments/assets/1fcadea5-b84c-438f-8e8a-99947d6cf9e1)
-
-# TO DO LIST
-
-This scirpt is an interactive, test-based to do list that has the following features:
-- A user can add todos by entering them into the prompt
-
-![Todos_adding](https://github.com/user-attachments/assets/f5539ce7-3fc7-4f96-a66d-1584b251a7f8)
-
-
-- A user can complete todos by entering the todo's corresponding number
-
-![Todos_done](https://github.com/user-attachments/assets/3c0c8136-1290-450b-950d-153e8fa84fb4)
-
-- A user can view a help screen by typing 'h' 
-
-![Todos_help](https://github.com/user-attachments/assets/250092a8-8d09-44e4-9a5c-ff0fe610f6aa)
-
-- A user can quit by typing 'q' or 'quit'
-
-![Todos_quit](https://github.com/user-attachments/assets/87969d30-b255-43a4-be20-42fc25a0ecdc)
-
-When a user first runs the script, there are no todos in the list. They can add one by simply entering it into the prompt.
-
 # POWER BI
 
 # REAL ESTATE DATA
@@ -105,4 +52,58 @@ Other information:
 Here a user can check if Median listing price change  on different features being available, can check median home price based on features user will pick or even check which words listing agents most use for describe properties at different price points
 
 ## Filter Panel:
-User can find a filter panel in the left bottom side of the dashboard. After clicking the button will be able to set all the parameters like we want from latest price, living area, home type, # of bedrooms, bathrooms or garage spaces. User can pick also city, zip code or even address. This tool works for every 4 tab in the tool. 
+User can find a filter panel in the left bottom side of the dashboard. After clicking the button will be able to set all the parameters like we want from latest price, living area, home type, # of bedrooms, bathrooms or garage spaces. User can pick also city, zip code or even address. This tool works for every 4 tab in the tool.
+
+# Python
+# VSC
+# DICE ROLLS
+
+This script was created for users. When the script runs, it will ask a user how many dice they want to roll and how many sides each die will have.
+Then it randomly rolls those dice and prints the results. Every time a user hits Enter, the dice are rolled again. 
+If a user enter "q", then the script quits and stops running.
+
+![Dicerolls](https://github.com/user-attachments/assets/083de700-281e-44e8-9522-170a70ca17db)
+
+# ROCK PAPER SCISSORS
+
+This script is a very simple implementation of the game Rock Paper Scissors. 
+If you are unfamiliar with the game, here is how it works. Two players each pick their move: Rock, Paper or Scissors. Each move beats one other move and loses to one other move:
+- Rock beats Scissors
+- Scissors beats Paper
+- Paper beats Rock
+
+Your implementation will be a one player game that has a computer "AI" that randomly picks a move.
+
+See the game in action below:
+
+![rps_win](https://github.com/user-attachments/assets/4393ee67-8816-4f15-a476-07e0e893c53d)
+
+##--------------------
+
+![rps_tie](https://github.com/user-attachments/assets/7968a2ea-7f40-42a9-b889-37b2d20fc05d)
+
+##--------------------
+
+![rps_lose](https://github.com/user-attachments/assets/1fcadea5-b84c-438f-8e8a-99947d6cf9e1)
+
+# TO DO LIST
+
+This scirpt is an interactive, test-based to do list that has the following features:
+- A user can add todos by entering them into the prompt
+
+![Todos_adding](https://github.com/user-attachments/assets/f5539ce7-3fc7-4f96-a66d-1584b251a7f8)
+
+
+- A user can complete todos by entering the todo's corresponding number
+
+![Todos_done](https://github.com/user-attachments/assets/3c0c8136-1290-450b-950d-153e8fa84fb4)
+
+- A user can view a help screen by typing 'h' 
+
+![Todos_help](https://github.com/user-attachments/assets/250092a8-8d09-44e4-9a5c-ff0fe610f6aa)
+
+- A user can quit by typing 'q' or 'quit'
+
+![Todos_quit](https://github.com/user-attachments/assets/87969d30-b255-43a4-be20-42fc25a0ecdc)
+
+When a user first runs the script, there are no todos in the list. They can add one by simply entering it into the prompt.
