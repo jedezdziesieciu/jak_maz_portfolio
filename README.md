@@ -2,7 +2,7 @@
 
 # REAL ESTATE DATA
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNDBkM2RhNTktNzMwYS00ZTc1LWI1ZWMtN2E4YjE5ODlhYjY1IiwidCI6IjZhYzdhMWY0LTVmYjEtNDE1My1iYjRmLTEyZDIwMjBhMWY3ZCIsImMiOjN9
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNDBkM2RhNTktNzMwYS00ZTc1LWI1ZWMtN2E4YjE5ODlhYjY1IiwidCI6IjZhYzdhMWY0LTVmYjEtNDE1My1iYjRmLTEyZDIwMjBhMWY3ZCIsImMiOjN9&pageName=ReportSectionf1034e2847b17046b7d3
 
 ## Problem Statement
 
